@@ -2,6 +2,14 @@
 
 面向单用户的本地优先安卓记账应用。数据保存在设备本地，不需要账号或服务器。
 
+## 应用截图
+
+| 账单 | 统计 |
+| :---: | :---: |
+| ![账单首页](docs/screenshots/home.jpg) | ![统计分析](docs/screenshots/stats.jpg) |
+| **预算** | **设置** |
+| ![分类预算](docs/screenshots/budget.jpg) | ![主题设置](docs/screenshots/settings.jpg) |
+
 ## 已实现功能
 
 - 金额算式输入，支持加减乘除和括号
@@ -43,7 +51,7 @@
 
 ## 公开分发注意
 
-- 不要提交 `keystore/`、`keystore.properties`、`local.properties`、`.tools/`、构建目录或测试截图。
+- 不要提交 `keystore/`、`keystore.properties`、`local.properties`、`.tools/`、构建目录或临时测试产物。
 - 建议通过 Gitee 的发行版功能附加 APK，不要把安装包提交到源码历史中。
 - 如果没有附加开源许可证，源码公开不代表他人拥有修改和再分发授权。
 
