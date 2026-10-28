@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">仓颉记账</string>
+    <string name="widget_today_spending">今日支出</string>
+    <string name="widget_month_balance">本月结余</string>
+    <string name="widget_quick_add">记一笔</string>
+    <string name="widget_app_name">仓颉记账</string>
+    <string name="widget_zero_amount">¥0.00</string>
+</resources>
+
